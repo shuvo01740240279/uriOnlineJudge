@@ -1,2 +1,2 @@
 # uriOnlineJudge
-solution of the problems with python
+solution of the problems with python program
