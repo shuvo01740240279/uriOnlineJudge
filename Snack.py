@@ -13,5 +13,5 @@ elif x == 5:
     price = 1.50
     
 total = price * y
-print(f"Total: R$ {total}")    
+print(f"Total: R$ {total:.2f}")    
     
